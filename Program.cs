@@ -1,0 +1,11 @@
+﻿Console.WriteLine("5");
+Console.ReadKey();
+Console.WriteLine("4");
+Console.ReadKey();
+Console.WriteLine("3");
+Console.ReadKey();
+Console.WriteLine("2");
+Console.ReadKey();
+Console.WriteLine("1");
+Console.ReadKey();
+Console.WriteLine("Já!");
